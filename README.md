@@ -3,7 +3,7 @@
 The website is the display and portifolio of images and a point of easy contact with Julie Hinos, a freelancer photographer. 
 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](assets/images/readme/landing_page.png)
 
 ## Features 
 
