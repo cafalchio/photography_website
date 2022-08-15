@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+}
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+}
+.logoFont {
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
+
+.angleUp {
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+}
+
+.fa-angle-up {
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+}
+
+.submit {
+    color: rgb(34, 34, 34);
+    border-color: rgb(19, 18, 18);
+    outline-color: rgb(124, 124, 124);
+}
+
+.aboutMe {
+    line-height: 1.8;
+    text-align: justify;
+}
+
+
+@media (max-width: 575.98px) { 
+    .aboutMe {
+        font-size: 15px;
+    }
+    .navbar-collapse {
+        min-height: 90px;
+    }
+}
+
