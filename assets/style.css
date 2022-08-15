@@ -7,7 +7,6 @@ header {
 }
 
 .angleUp {
-    font-size: 35px;
     color: rgb(0, 0, 0);
 }
 
@@ -26,9 +25,3 @@ header {
     line-height: 1.8;
     text-align: justify;
 }
-
-.container > img:hover {
-    width: 500px;
-    height: 500px;
-  }
-
