@@ -3,7 +3,7 @@
 The website is the display and portifolio of images and a point of easy contact with Julie Hinos, a freelancer photographer. 
 
 
-![Responsice Mockup](assets/images/readme/landing_page.png)
+![Landing](assets/images/readme/landing.png)
 
 ## Features 
 
@@ -21,14 +21,15 @@ Each image on the portfolio is clickable and will open with the full size image.
   - Once the user clicks on a link, the page will scroll to the top of the page.
   - To return to the top of the page, the user can click on arrow up. Which will scroll the page to the top of the page.
   - 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](assets/images/readme/navbar.png)
 
 - __The landing page image__
 
   - On the landing page, there is a carousel that will display images of Julie Hinos. 
   - This carousel will change every 5 seconds.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Carousel](assets/images/readme/carousel.png)
+![Mobile](assets/images/readme/carousel_mobile.png)
 
 - __Interior Nature and Portrait Sections__
 
@@ -36,30 +37,26 @@ Each image on the portfolio is clickable and will open with the full size image.
   - The user can click on an image to open the full size image.
   - Images were divided into three sections: Interior, Nature and Portrait to help the user navigate through the website.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Galeries](assets/images/readme/interior.png)
 
 - __About Julie Section__
 
   - The About Julie section is a short description of Julie Hinos.
   - The user can see the name, age, location, and a short description of her.
+![About Julie](assets/images/readme/about.png)
 
-
-- __The Sign Up Page__
+- __The Contact Page__
 
   - This page will allow the user to get in contact with Julie Hinos.
-
+  - 
+![Contact](assets/images/readme/form.png)
 
 - __The Footer__ 
 
   - The footer is valuable to the user as it encourages them to keep connected via social media
   - The user can click on the icons to get to the social media pages.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
+![Footer](assets/images/readme/form.png)
 
 
 ### Features Left to Implement
