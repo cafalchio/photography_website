@@ -7,9 +7,9 @@ header {
   font-size: 19px;
 }
 
-.nav-link {
-  /* font-family: 'Montserrat', sans-serif; */
-  font-size: 20px;
+.slide {
+  width: 67.3%;
+  height: 67.3%;
 }
 
 .fa-angle-up {
@@ -24,6 +24,7 @@ header {
 }
 
 .aboutMe {
+  font-family: "Montserrat", sans-serif;
   line-height: 1.8;
   text-align: justify;
 }
