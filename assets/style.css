@@ -1,9 +1,18 @@
 header {
     text-align: center;
 }
-* {
+/* * {
     font-family: 'Montserrat', sans-serif;
-    font-size: 17px;
+    font-size: 19px;
+} */
+
+.nav-link {
+    /* font-family: 'Montserrat', sans-serif; */
+    font-size: 20px;
+}
+.text-secondary {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
 }
 
 .fa-angle-up {
