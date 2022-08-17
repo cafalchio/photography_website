@@ -49,14 +49,14 @@ Each image on the portfolio is clickable and will open with the full size image.
 
   - This page will allow the user to get in contact with Julie Hinos.
   - 
-![Contact](assets/images/readme/form.png)
+![Contact](assets/images/readme/contact.png)
 
 - __The Footer__ 
 
   - The footer is valuable to the user as it encourages them to keep connected via social media
   - The user can click on the icons to get to the social media pages.
 
-![Footer](assets/images/readme/form.png)
+![Footer](assets/images/readme/footer.png)
 
 
 ### Features Left to Implement
