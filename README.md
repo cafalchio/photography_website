@@ -63,8 +63,8 @@ In Mobile:
 
     To be implemented:
 
-    * Navegable gallery of images where the user click on one image and navigate on all the images from the same category.
-    * Whatsapp live conversation with Julie Hinos.
+- Navegable gallery of images where the user click on one image and navigate on all the images from the same category.
+- Whatsapp live conversation with Julie Hinos.
 
 ## Testing
 
@@ -79,12 +79,9 @@ Jigsaw Validation:
 
 ![Jigsaw](assets/images/readme/jigsaw.png)
 
-Lighhouse mobile:
+Lighhouse mobile and desktop testing:
 
 ![LightHouse](assets/images/readme/light_mobile.png)
-
-Lighhouse desktop:
-![LightHouse](assets/images/readme/light_desk.png)
 
 The major concerns were the speed to load the images. The images were reduced both in size and optimizila image compressor. The speed increased but it is still a concern in slow phone connection.
 
