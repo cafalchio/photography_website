@@ -61,8 +61,6 @@ In Mobile:
 
 ### Features Left to Implement
 
-    To be implemented:
-
 - Navegable gallery of images where the user click on one image and navigate on all the images from the same category.
 - Whatsapp live conversation with Julie Hinos.
 
