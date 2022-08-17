@@ -1,14 +1,10 @@
 # Julie Hinos
 
+The website is the display and portifolio of images and a point of easy contact with Julie Hinos, a freelancer photographer.
+
 ## Code institute MS1 Project Front End
 
 ![alt text](assets/images/readme/responsive.png)
-
-## Introduction
-
-The website is the display and portifolio of images and a point of easy contact with Julie Hinos, a freelancer photographer.
-
-![Landing](assets/images/readme/landing.png)
 
 ## Features
 
