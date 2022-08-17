@@ -1,18 +1,15 @@
 header {
   text-align: center;
 }
-/* * {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 19px;
-} */
+
+* {
+  font-family: "Montserrat", sans-serif;
+  font-size: 19px;
+}
 
 .nav-link {
   /* font-family: 'Montserrat', sans-serif; */
   font-size: 20px;
-}
-.text-secondary {
-  font-family: "Montserrat", sans-serif;
-  font-size: 19px;
 }
 
 .fa-angle-up {
@@ -29,4 +26,9 @@ header {
 .aboutMe {
   line-height: 1.8;
   text-align: justify;
+}
+
+.d-block {
+  width: 90%;
+  height: 90%;
 }
