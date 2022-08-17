@@ -17,7 +17,7 @@ Each image on the portfolio is clickable and will open with the full size image.
   - The navigation bar is a list of links that can be used to navigate through the website. Home, Interiors, Nature, Portrait, About Julie and Contact.
   - Once the user clicks on a link, the page will scroll to the top of the page.
   - To return to the top of the page, the user can click on arrow up. Which will scroll the page to the top of the page.
-  - ![Nav Bar](assets/images/readme/navbar.png)
+  - ![Nav Bar](assets/images/readme/nav_bar.png)
 
 - **The landing page image**
 
@@ -25,6 +25,8 @@ Each image on the portfolio is clickable and will open with the full size image.
   - This carousel will change every 5 seconds.
 
 ![Carousel](assets/images/readme/carousel.png)
+
+In Mobile:
 
 ![Mobile](assets/images/readme/carousel_mobile.png)
 
@@ -66,32 +68,40 @@ Each image on the portfolio is clickable and will open with the full size image.
 
 The website was tested on a desktop computer and a mobile phone.
 Also, W3C and Jigsaw validation was used to validate the website HTML and CSS.
-The major concerns were:
 
-### Validator Testing
+W3C Validation:
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+![W3C](assets/images/readme/W3C.png)
+
+Jigsaw Validation:
+
+![Jigsaw](assets/images/readme/Jigsaw.png)
+
+Lighhouse mobile:
+
+![LightHouse](assets/images/readme/light_mobile.png)
+
+Lighhouse desktop:
+![LightHouse](assets/images/readme/light_desktop.png)
+
+The major concerns were the speed to load the images. The images were reduced both in size and optimizila image compressor. The speed increased but it is still a concern in slow phone connection.
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+The following bugs were not fixed:
+
+The <\hr> tag was not working on the Nature section. I have tried to change the code, but I couldn't see the error. It works perfectly when I am using a local server, but not when I am using a live server.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+- The website was deployed on a the Github Pages website.
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows:
-  - In the GitHub repository, navigate to the Settings tab
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+The live link can be found here - https://cafalchio.github.io/photography_website/index.html
 
 ## Credits
 
 - Bootstrap examples for providing the styling and carousel for the website [Bootstrap](https://getbootstrap.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Pexels for providing all the images used in the website.[Pexels](https://www.pexels.com/)
+- Optmizila compressor to reduce the images sizes [Optmizila](https://optmizila.com/)
+- The love running webpage, provided by Code Institute as an example
