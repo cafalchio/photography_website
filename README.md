@@ -103,3 +103,4 @@ The live link can be found here - https://cafalchio.github.io/photography_websit
 - Optmizila compressor to reduce the images sizes [Optmizila](https://optmizila.com/)
 - The love running webpage, provided by Code Institute as an example
 - Am I responsive for providing the responsive website [Am I Responsive](http://ami.responsivedesign.is/)
+- Google, stack overflow and other websites for providing the code examples
