@@ -79,15 +79,15 @@ Jigsaw Validation:
 
 Lighhouse mobile and desktop testing:
 
-![LightHouse](assets/images/readme/light_mobile.png)
+![LightHouse Mobile](assets/images/readme/light_mobile.png)
+
+![LightHouse Desktop](assets/images/readme/light_desktop.png)
 
 The major concerns were the speed to load the images. The images were reduced both in size and optimizila image compressor. The speed increased but it is still a concern in slow phone connection.
 
 ### Unfixed Bugs
 
-The following bugs were not fixed:
-
-The <\hr> tag was not working on the Nature section. I have tried to change the code, but I couldn't see the error. It works perfectly when I am using a local server, but not when I am using a live server.
+Could not find a way to make a button to return to the page after openning a full size image.
 
 ## Deployment
 
