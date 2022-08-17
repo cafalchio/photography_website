@@ -1,5 +1,11 @@
 # Julie Hinos
 
+## Code institute MS1 Project Front End
+
+![alt text](assets/images/readme/responsive.png)
+
+## Introduction
+
 The website is the display and portifolio of images and a point of easy contact with Julie Hinos, a freelancer photographer.
 
 ![Landing](assets/images/readme/landing.png)
@@ -105,3 +111,4 @@ The live link can be found here - https://cafalchio.github.io/photography_websit
 - Pexels for providing all the images used in the website.[Pexels](https://www.pexels.com/)
 - Optmizila compressor to reduce the images sizes [Optmizila](https://optmizila.com/)
 - The love running webpage, provided by Code Institute as an example
+- Am I responsive for providing the responsive website [Am I Responsive](http://ami.responsivedesign.is/)
