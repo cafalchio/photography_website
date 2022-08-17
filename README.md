@@ -29,6 +29,9 @@ Each image on the portfolio is clickable and will open with the full size image.
   - This carousel will change every 5 seconds.
 
 ![Carousel](assets/images/readme/carousel.png)
+
+
+
 ![Mobile](assets/images/readme/carousel_mobile.png)
 
 - __Interior Nature and Portrait Sections__
@@ -39,10 +42,12 @@ Each image on the portfolio is clickable and will open with the full size image.
 
 ![Galeries](assets/images/readme/interior.png)
 
+
 - __About Julie Section__
 
   - The About Julie section is a short description of Julie Hinos.
   - The user can see the name, age, location, and a short description of her.
+
 ![About Julie](assets/images/readme/about.png)
 
 - __The Contact Page__
@@ -69,13 +74,9 @@ Each image on the portfolio is clickable and will open with the full size image.
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+The website was tested on a desktop computer and a mobile phone.
+Also, W3C and Jigsaw validation was used to validate the website HTML and CSS.
+The major concerns were:
 
 
 ### Validator Testing 
