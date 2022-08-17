@@ -26,9 +26,9 @@ Each image on the portfolio is clickable and will open with the full size image.
   - On the landing page, there is a carousel that will display images of Julie Hinos.
   - This carousel will change every 5 seconds.
 
-![Carousel](assets/images/readme/carousel.png)
+![Carousel](assets/images/readme/landing.png)
 
-In Mobile:
+In Mobile with another image:
 
 ![Mobile](assets/images/readme/carousel_mobile.png)
 
