@@ -75,14 +75,14 @@ W3C Validation:
 
 Jigsaw Validation:
 
-![Jigsaw](assets/images/readme/Jigsaw.png)
+![Jigsaw](assets/images/readme/jigsaw.png)
 
 Lighhouse mobile:
 
 ![LightHouse](assets/images/readme/light_mobile.png)
 
 Lighhouse desktop:
-![LightHouse](assets/images/readme/light_desktop.png)
+![LightHouse](assets/images/readme/light_desk.png)
 
 The major concerns were the speed to load the images. The images were reduced both in size and optimizila image compressor. The speed increased but it is still a concern in slow phone connection.
 
