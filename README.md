@@ -84,10 +84,11 @@ Lighhouse mobile and desktop testing:
 ![LightHouse Desktop](assets/images/readme/light_desktop.png)
 
 The major concerns were the speed to load the images. The images were reduced both in size and optimizila image compressor. The speed increased but it is still a concern in slow phone connection.
+So images were converted to jpg format and the quality was reduced.
 
 ### Unfixed Bugs
 
-Could not find a way to make a button to return to the page after openning a full size image.
+Could not find a way to make a button to return to the page after openning a full size image.git
 
 ## Deployment
 
