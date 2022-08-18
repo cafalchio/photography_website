@@ -88,7 +88,7 @@ So images were converted to jpg format and the quality was reduced.
 
 ### Unfixed Bugs
 
-Could not find a way to make a button to return to the page after openning a full size image.git
+Could not find a way to make a button to return to the page after openning a full size image.
 
 ## Deployment
 
